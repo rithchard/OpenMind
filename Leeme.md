@@ -24,4 +24,4 @@ Toda la tecnología usada en OpenMind son tecnologías Software Libre así no se
 * Google Chrome
 
 ##Descargar OpenMind
-http://atyp.com/javi.zip
+http://taypibit.org/OpenMind.zip
