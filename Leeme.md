@@ -9,6 +9,7 @@ OpenMind al ser montando en una LAN o WLAN tiene la ventaja de ser instalada en 
 Toda la tecnología usada en OpenMind son tecnologías Software Libre así no se requiere comprar licencias al momento de desarrollar toda la plataforma.
 
 ##Tecnologías detras de OpenMind
+
 * MySQL
 * Wget
 * Perl
